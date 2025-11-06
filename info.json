@@ -1,0 +1,32 @@
+{
+    "name": "giri-qol-pack",
+    "version": "1.0.0",
+    "title": "A mod which quickly enables other mods Giri finds desirable for their quality of life improvements and additions",
+    "author": "Girix",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base >= 2.0.0",
+        "Brighter-Lamps >= 2.0.0",
+        "DiscoScience >= 2.0.0",
+        "EvenDistributionLite >= 1.4.5",
+        "FilterHelper >= 0.2.22",
+        "inserter-throughput >= 0.1.6",
+        "science-tab >= 1.5.2",
+        "textplates >= 0.7.2",
+        "BottleneckLite >= 1.3.4",
+        "factoryplanner >= 2.0.43",
+        "power-grid-comb >= 2.0.0",
+        "RateCalculator >= 3.3.7",
+        "StatsGui >= 1.6.1",
+        "GUI_Unifyer >= 2.0.1",
+
+        "?Todo-List >= 19.14.0",
+        "?kry-inserters >= 5.1.7",
+        "?Milestones >= 1.4.6",
+        "?RecipeBook >= 4.0.7",
+        "?squeak-through-2 >= 0.1.2"
+
+
+    ],
+    "description": "I got annoyed by the fact that factorio doesn't have a way to put mods in a group and enable that group, and then modify said group with ease. So here, I got a mod to enable my QOL mods instead, and I'm putting it on the portal in case anyone likes this roster"
+}
