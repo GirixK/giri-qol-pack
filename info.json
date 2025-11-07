@@ -1,7 +1,7 @@
 {
     "name": "giri-qol-pack",
     "version": "1.0.0",
-    "title": "A mod which quickly enables other mods Giri finds desirable for their quality of life improvements and additions",
+    "title": "A mod which quickly enables other mods Giri finds desirable for their quality of life improvements",
     "author": "Girix",
     "factorio_version": "2.0",
     "dependencies": [
