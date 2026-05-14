@@ -1,13 +1,12 @@
 {
     "name": "giri-qol-pack",
-    "version": "1.0.0",
-    "title": "A mod which quickly enables other mods Giri finds desirable for their quality of life improvements",
+    "version": "1.1.0",
+    "title": "Giri's QoL Pack",
     "author": "Girix",
     "factorio_version": "2.0",
     "dependencies": [
         "base >= 2.0.0",
         "Brighter-Lamps >= 2.0.0",
-        "DiscoScience >= 2.0.0",
         "EvenDistributionLite >= 1.4.5",
         "FilterHelper >= 0.2.22",
         "inserter-throughput >= 0.1.6",
@@ -19,12 +18,16 @@
         "RateCalculator >= 3.3.7",
         "StatsGui >= 1.6.1",
         "GUI_Unifyer >= 2.0.1",
+        "barreling-group2 >= 0.5.1",
 
         "?Todo-List >= 19.14.0",
         "?kry-inserters >= 5.1.7",
         "?Milestones >= 1.4.6",
         "?RecipeBook >= 4.0.7",
-        "?squeak-through-2 >= 0.1.2"
+        "?squeak-through-2 >= 0.1.2",
+        "?DiscoScience >= 2.0.0",
+        "?blueprint-shotgun >= 0.2.19",
+        "?FactorySearch >= 1.14.0"
 
 
     ],
